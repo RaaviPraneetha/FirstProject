@@ -8,6 +8,7 @@ class BooksApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("hello test");
 	}
 
 }

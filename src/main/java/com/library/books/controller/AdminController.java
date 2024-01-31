@@ -68,7 +68,6 @@ public class AdminController {
 	}
 
 	@RequestMapping("/logout")
-
 	public String logout() {
 		return "index";
 	}
